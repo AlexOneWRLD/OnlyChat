@@ -4,7 +4,6 @@
 	flex-direction: column;
 	gap: 10px;
 	color: #000000;
-	opacity: 0.5;
 }
 
 .inputAndButtonContainer {
@@ -16,38 +15,64 @@
 	color: red;
 	font-size: 14px;
 	font-weight: 400;
+	padding-top: 8px;
 }
 
 .input {
+	padding: 8px 12px;
 	width: 75vh;
 	height: 36px;
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 500;
 }
 
 .input:focus {
+	outline: none;
 }
 
 .errorInput {
-
+	border: 1px solid #c00;
+	width: 75vh;
+	height: 36px;
+	border-radius: 5px;
 }
 
 .button {
 	height: 36px;
 	width: 78px;
-	background-color:#0066CC;
-	color: #FFFFFF;
+	background-color: #0066CC;
+	border-radius: 3px;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 1.42857;
+	color: #fff;
+	border: none;
+	transition: opacity 0.4s;
 }
 
 .button:focus {
+	outline: none;
 }
 
 .button:active {
+	opacity: 0.5;
 }
 
 .button:disabled {
+	opacity: 0.5;
 }
 
 .text {
+	font-weight: 400;
+	font-size: 14px;
+	opacity: 0.5;
 }
 
 .greeting {
+	font-weight: 500;
+	font-size: 14px;
+	color: #000;
 }
