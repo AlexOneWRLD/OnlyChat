@@ -1,22 +1,40 @@
 .greetingForm {
+	padding: 31px 0 31px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	color: #000000;
+	opacity: 0.5;
 }
 
 .inputAndButtonContainer {
+	display: flex;
+	gap: 12px;
 }
 
 .error {
+	color: red;
+	font-size: 14px;
+	font-weight: 400;
 }
 
 .input {
+	width: 75vh;
+	height: 36px;
 }
 
 .input:focus {
 }
 
 .errorInput {
+
 }
 
 .button {
+	height: 36px;
+	width: 78px;
+	background-color:#0066CC;
+	color: #FFFFFF;
 }
 
 .button:focus {
