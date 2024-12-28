@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/OnlyChat/static/css/main.e1d62c8d.css",
-    "main.js": "/OnlyChat/static/js/main.b757ed0b.js",
+    "main.css": "/OnlyChat/static/css/main.7a48651e.css",
+    "main.js": "/OnlyChat/static/js/main.502cb3bf.js",
     "static/js/787.66cb4309.chunk.js": "/OnlyChat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/OnlyChat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/message.svg": "/OnlyChat/static/media/message.2402440b853e878490c2.svg",
     "static/media/friend-message.svg": "/OnlyChat/static/media/friend-message.95987627a9030faf2a17.svg",
+    "static/media/checked.svg": "/OnlyChat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/OnlyChat/index.html",
-    "main.e1d62c8d.css.map": "/OnlyChat/static/css/main.e1d62c8d.css.map",
-    "main.b757ed0b.js.map": "/OnlyChat/static/js/main.b757ed0b.js.map",
+    "main.7a48651e.css.map": "/OnlyChat/static/css/main.7a48651e.css.map",
+    "main.502cb3bf.js.map": "/OnlyChat/static/js/main.502cb3bf.js.map",
     "787.66cb4309.chunk.js.map": "/OnlyChat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1d62c8d.css",
-    "static/js/main.b757ed0b.js"
+    "static/css/main.7a48651e.css",
+    "static/js/main.502cb3bf.js"
   ]
 }
