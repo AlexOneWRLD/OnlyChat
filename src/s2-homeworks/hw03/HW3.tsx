@@ -19,15 +19,15 @@ import GreetingContainer from './GreetingContainer'
 
 // types
 export type UserType = {
-	_id: string // need to fix any
+	id: string // need to fix any
 	name: string// need to fix any
 }
 
 export const pureAddUserCallback = (
 	name: string,
-	setUsers: React.Dispatch<SetStateAction<UserType[]>>,
+	setUsers: any,
 	users: UserType[]) => { // need to fix any
-	const user:UserType = {_id: v1(),name}
+	const user = {id: v1(),name}
 	setUsers([...users, user])
 }
 
