@@ -1,15 +1,34 @@
 .radio {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
 }
 
 .radio::before {
+	position: absolute;
+	content: '';
+	width: 20px;
+	height: 20px;
+	border: 2px solid #000000;
+	border-radius: 100px;
 }
 
 
-.radio:checked::before {
+.radio:checked {
+	accent-color: black;
 }
 
 .label {
+	display: flex;
+	gap: 11px;
+	align-items: center;
+	cursor: pointer;
 }
 
 .options {
+	display: flex;
+	flex-direction: column;
+	gap: 22px;
 }
+
