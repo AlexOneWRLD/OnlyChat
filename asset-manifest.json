@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OnlyChat/static/css/main.5a349214.css",
-    "main.js": "/OnlyChat/static/js/main.2539a6dc.js",
+    "main.css": "/OnlyChat/static/css/main.f4daa401.css",
+    "main.js": "/OnlyChat/static/js/main.618cdebb.js",
     "static/js/787.66cb4309.chunk.js": "/OnlyChat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/OnlyChat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/OnlyChat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -12,12 +12,12 @@
     "static/media/checked.svg": "/OnlyChat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/OnlyChat/index.html",
     "static/media/burger.svg": "/OnlyChat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.5a349214.css.map": "/OnlyChat/static/css/main.5a349214.css.map",
-    "main.2539a6dc.js.map": "/OnlyChat/static/js/main.2539a6dc.js.map",
+    "main.f4daa401.css.map": "/OnlyChat/static/css/main.f4daa401.css.map",
+    "main.618cdebb.js.map": "/OnlyChat/static/js/main.618cdebb.js.map",
     "787.66cb4309.chunk.js.map": "/OnlyChat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a349214.css",
-    "static/js/main.2539a6dc.js"
+    "static/css/main.f4daa401.css",
+    "static/js/main.618cdebb.js"
   ]
 }
