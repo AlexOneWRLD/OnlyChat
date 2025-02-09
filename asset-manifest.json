@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OnlyChat/static/css/main.987c33d7.css",
-    "main.js": "/OnlyChat/static/js/main.6340200e.js",
+    "main.js": "/OnlyChat/static/js/main.b98cd493.js",
     "static/js/787.66cb4309.chunk.js": "/OnlyChat/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/OnlyChat/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/OnlyChat/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -13,11 +13,11 @@
     "index.html": "/OnlyChat/index.html",
     "static/media/burger.svg": "/OnlyChat/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.987c33d7.css.map": "/OnlyChat/static/css/main.987c33d7.css.map",
-    "main.6340200e.js.map": "/OnlyChat/static/js/main.6340200e.js.map",
+    "main.b98cd493.js.map": "/OnlyChat/static/js/main.b98cd493.js.map",
     "787.66cb4309.chunk.js.map": "/OnlyChat/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.987c33d7.css",
-    "static/js/main.6340200e.js"
+    "static/js/main.b98cd493.js"
   ]
 }
